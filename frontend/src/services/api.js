@@ -1,8 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || "",
-});
+const API = axios.create({  baseURL: "/api"});
 
 export const searchQuery = async (q) => {
   const res = await API.get(`/search?q=${encodeURIComponent(q)}`);
