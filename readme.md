@@ -14,9 +14,9 @@
 
 *(Add screenshots here)*
 
-![Home](./screenshots/home_light.jpeg)
-![Results](./screenshots/results_light.jpeg)
-![Suggestions](./screenshots/suggestions_light.jpeg)
+![Home](./screenshots/home_light.png)
+![Results](./screenshots/results_light.png)
+![Suggestions](./screenshots/suggestions_light.png)
 
 ------------------------------------------------------------------------
 
